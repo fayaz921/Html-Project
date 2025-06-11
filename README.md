@@ -1,3 +1,3 @@
 # Html-Project
-Author : M Fayaz
+Author : Muhammad Fayaz 
 Portfolio project Html 
